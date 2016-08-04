@@ -8,7 +8,7 @@ if(!empty($_POST['email']) && !empty($_POST['password']));
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Login Below</title>
+    <title>Login</title>
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
     <link href='https://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet' type='text/css'>
   </head>
