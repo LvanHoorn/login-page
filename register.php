@@ -1,4 +1,9 @@
-<!DOCTYPE html>
+<?php 
+
+
+
+ ?>
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -8,7 +13,6 @@
     <link href='https://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet' type='text/css'>
   </head>
   <body>
-
     <div class="header">
       <a href="/auth">DAY-Studio Yogi's</a>
     </div>
